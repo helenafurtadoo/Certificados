@@ -1,8 +1,4 @@
-
-### Certificados
-
-
-# Certificados e Formações
+### Certificados e Formações
 
 Repositório destinado à organização dos **certificados de cursos, formações e eventos** que fazem parte da minha trajetória acadêmica e profissional na área de tecnologia.
 
